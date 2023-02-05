@@ -1,2 +1,7 @@
 .DS_Store
 node_modules
+package-lock.json
+
+# Production files
+.parcel-cache/
+dist/
