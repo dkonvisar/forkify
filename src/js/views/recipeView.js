@@ -13,7 +13,7 @@ class RecipeView {
     this.#parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 
-  clear() {
+  #clear() {
     this.#parentElement.innerHTML = '';
   }
 
