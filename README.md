@@ -1,6 +1,6 @@
 # Forkify
 
-App for searching and uploading recipes.
+App for searching and uploading recipes.  
 Working with API (GET/POST) https://forkify-api.herokuapp.com/v2
 
 #### Features / What we can do:
